@@ -5,12 +5,6 @@
   반가워 구건일여친바로나야
 </h1>
 
-<!-- Nothing weird to see here -->
-
-  <!--a href="https://yye-spotify.onrender.com/api/top-played"-->
-    <!-- This SVG is generated daily by GitHub Actions -->
-    <!--img src="top-played.svg" alt="Top Played Tracks" /-->
-  <!--/a-->
 
  
 ## 🎧 My Top Played Tracks
