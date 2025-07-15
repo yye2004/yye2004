@@ -1,6 +1,6 @@
 ## 𐙚₊˚⊹ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊˚ 🦢
 𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞
-
+<p> </p>
 ## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<p> </p>
 ## 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
 <p>
