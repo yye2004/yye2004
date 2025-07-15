@@ -1,58 +1,110 @@
-name: Update Top Played SVG
+require('dotenv').config();
+const express = require('express');
+const axios = require('axios');
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # every day at 00:00 UTC
-  workflow_dispatch:     # allow manual runs too
+const app = express();
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+// ------------------------
+// ✅ CONFIG
+// ------------------------
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
+const redirectUri = 'https://yye-spotify.onrender.com/callback';
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+// ------------------------
+// ✅ GET ACCESS TOKEN USING REFRESH TOKEN
+// ------------------------
+async function getAccessToken() {
+  const response = await axios.post(
+    'https://accounts.spotify.com/api/token',
+    new URLSearchParams({
+      grant_type: 'refresh_token',
+      refresh_token: refreshToken,
+    }).toString(),
+    {
+      headers: {
+        'Authorization': 'Basic ' + Buffer.from(clientId + ':' + clientSecret).toString('base64'),
+        'Content-Type': 'application/x-www-form-urlencoded',
+      },
+    }
+  );
+  return response.data.access_token;
+}
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+// ------------------------
+// ✅ SPOTIFY OAUTH CALLBACK
+// ------------------------
+app.get('/callback', async (req, res) => {
+  const code = req.query.code || null;
 
-      - name: Fetch Top Played JSON
-        run: curl -s https://yye-spotify.onrender.com/api/top-played > top-played.json
+  if (!code) {
+    return res.status(400).send('No code found in query');
+  }
 
-      - name: Generate SVG
-        run: |
-          node -e "
-          const fs = require('fs');
-          const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
-          const items = Array.isArray(data) ? data.items || [] : [];
-          const svg = \`
-          <svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${60 + items.length * 30}'>
-            <style>
-              text { font-family: sans-serif; font-size: 16px; }
-            </style>
-            <text x='10' y='30'>Top Played Tracks:</text>
-            \${items.length > 0 
-              ? items.map((item, i) => {
-                const track = item.name || 'Unknown Track';
-                const artist = item.artists && item.artists.length > 0 ? item.artists.map(a => a.name).join(', ') : 'Unknown Artist';
-                const popularity = item.popularity !== undefined ? item.popularity : 'N/A';
-                return \`<text x='10' y='\${60 + i * 30}'>\${track} by \${artist} (Popularity: \${popularity})</text>\`;
-              }).join('')
-              : \`<text x='10' y='60'>No data available.</text>\`
-            }
-          </svg>
-          \`;
-          fs.writeFileSync('top-played.svg', svg);
-          "
+  try {
+    const response = await axios({
+      method: 'post',
+      url: 'https://accounts.spotify.com/api/token',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Authorization': 'Basic ' + Buffer.from(clientId + ':' + clientSecret).toString('base64'),
+      },
+      data: new URLSearchParams({
+        grant_type: 'authorization_code',
+        code: code,
+        redirect_uri: redirectUri,
+      }).toString(),
+    });
 
+    const { access_token, refresh_token, expires_in } = response.data;
 
-      - name: Commit & Push SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add top-played.svg
-          git commit -m "Update top-played.svg [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git push origin HEAD:${{ github.ref_name }}
+    res.send(`
+      <h2>Spotify tokens received!</h2>
+      <p><strong>Access Token:</strong> ${access_token}</p>
+      <p><strong>Refresh Token:</strong> ${refresh_token}</p>
+      <p><strong>Expires In:</strong> ${expires_in} seconds</p>
+      <p>✅ Save your refresh token securely as an environment variable!</p>
+    `);
+
+  } catch (error) {
+    console.error('Error getting tokens:', error.response?.data || error.message);
+    res.status(500).send('Failed to get tokens from Spotify.');
+  }
+});
+
+// ------------------------
+// ✅ API ENDPOINT - GET TOP TRACKS
+// ------------------------
+app.get('/api/top-played', async (req, res) => {
+  try {
+    const accessToken = await getAccessToken();
+    const { data } = await axios.get(
+      'https://api.spotify.com/v1/me/top/tracks?limit=5',
+      {
+        headers: {
+          'Authorization': 'Bearer ' + accessToken,
+        },
+      }
+    );
+    res.json(data);
+  } catch (error) {
+    console.error('Error fetching top tracks:', error.response?.data || error.message);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// ------------------------
+// ✅ ROOT ENDPOINT - HEALTH CHECK
+// ------------------------
+app.get('/', (req, res) => {
+  res.send('✅ Spotify Proxy Server is up and running!');
+});
+
+// ------------------------
+// ✅ SINGLE SERVER LISTEN
+// ------------------------
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`✅ Server listening on port ${PORT}`);
+});
