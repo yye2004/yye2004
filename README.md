@@ -8,7 +8,8 @@ annyeonghaseyo ![GunilWinkGIF](https://github.com/user-attachments/assets/49a228
 
 <!-- Nothing weird to see here -->
 <p align="center">
-  <a href="[https://readme.yye2004.com/api/now-playing?open](https://yye-spotify.onrender.com/api/top-played)">
+  <a href="https://yye-spotify.onrender.com/api/top-played">
+
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://yye-spotify.onrender.com/api/top-played" />
 
