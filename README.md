@@ -10,7 +10,8 @@ annyeonghaseyo ![GunilWinkGIF](https://github.com/user-attachments/assets/49a228
 <p align="center">
   <a href="https://readme.yye2004.com/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/yye2004/now-playing.svg">
+    <img src="https://yye-spotify.onrender.com/api/top-played" />
+
     <!-- This is how you'd make the call dynamically <img src="https://readme.yye2004.com/api/now-playing"> -->
   </a>
 </p>
