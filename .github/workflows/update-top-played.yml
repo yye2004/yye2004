@@ -37,8 +37,7 @@ jobs:
                 const artists = item.artists && Array.isArray(item.artists)
                   ? item.artists.map(a => a.name).join(', ')
                   : 'Unknown Artist';
-                const popularity = item.popularity ?? 'N/A';
-                svg += \`<text x='10' y='\${60 + i * 30}'>\${track} by \${artists} (Popularity: \${popularity})</text>\`;
+                svg += \`<text x='10' y='\${60 + i * 30}'>\${track} by \${artists}</text>\`;
               });
             } else {
               svg += \`<text x='10' y='60'>No data available.</text>\`;
