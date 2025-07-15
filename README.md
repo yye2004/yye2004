@@ -1,14 +1,10 @@
-## busy
+## busy sleeping
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
-
 <p>
   반가워 구건일여친바로나야
 </p>
-
-
  
 ## 🎧 My Top Played Tracks
-
 | Cover | Track | Artist |
 |-------|-------|--------|
 | ![Freudian](https://i.scdn.co/image/ab67616d0000485105ac3e026324594a31fad7fb) | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | Daniel Caesar |
@@ -17,7 +13,9 @@
 | ![H.E.R. Volume 1](https://i.scdn.co/image/ab67616d0000485131cf49fd3091a58dae856775) | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | H.E.R. |
 | ![King Of Hearts](https://i.scdn.co/image/ab67616d000048510cbcba901936179fd2c048e0) | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | Lloyd |
 
+# 💻 Experience in:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h1>
-  i am a certified sleeper 💤
-</h1>
+
+<p>i am a certified sleeper hehe💤</p> 
+
