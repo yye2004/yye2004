@@ -20,11 +20,6 @@ async function getAccessToken() {
   return response.data.access_token;
 }
 
-app.get('/', (req, res) => {
-  res.send('✅ Server is up and running!');
-});
-
-
 app.get('/api/top-played', async (req, res) => {
   try {
     const accessToken = await getAccessToken();
@@ -40,6 +35,10 @@ app.get('/api/top-played', async (req, res) => {
 });
 
 const port = process.env.PORT || 3000;
+app.get('/', (req, res) => {
+  res.send('✅ Server is up and running!');
+});
+
 app.listen(port, () => {
   console.log(`App listening on port ${port}`);
 });
