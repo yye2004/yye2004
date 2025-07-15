@@ -18,7 +18,6 @@ annyeonghaseyo ![GunilWinkGIF](https://github.com/user-attachments/assets/49a228
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yye2004/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.yye2004.com/api/top-played"> -->
 </p>
  
 
