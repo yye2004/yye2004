@@ -1,1 +1,24 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='600' height='210'><style>text { font-family: sans-serif; font-size: 16px; }</style><text x='10' y='30'>Top Played Tracks:</text><text x='10' y='60'>Hold Me Down by Daniel Caesar (Popularity: 83)</text><text x='10' y='90'>Off My Face by Justin Bieber (Popularity: 74)</text><text x='10' y='120'>Toronto 2014 (with Mustafa) by Daniel Caesar, Mustafa (Popularity: 76)</text><text x='10' y='150'>Focus by H.E.R. (Popularity: 64)</text><text x='10' y='180'>Lay It Down by Lloyd (Popularity: 63)</text></svg>
+
+    <svg xmlns='http://www.w3.org/2000/svg' width='600' height='450'>
+      <style>
+        .title { font: bold 20px sans-serif; }
+        .track { font: 16px sans-serif; }
+        .artist { font: italic 14px sans-serif; fill: #555; }
+      </style>
+      <text x='10' y='30' class='title'>🎧 My Top Played Tracks</text>
+  <image href='https://i.scdn.co/image/ab67616d0000485105ac3e026324594a31fad7fb' x='10' y='50' width='64' height='64'/>
+        <text x='84' y='70' class='track'>Hold Me Down</text>
+        <text x='84' y='95' class='artist'>by Daniel Caesar</text>
+      <image href='https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431' x='10' y='130' width='64' height='64'/>
+        <text x='84' y='150' class='track'>Off My Face</text>
+        <text x='84' y='175' class='artist'>by Justin Bieber</text>
+      <image href='https://i.scdn.co/image/ab67616d000048517c68face1dc58127f3a7b1cc' x='10' y='210' width='64' height='64'/>
+        <text x='84' y='230' class='track'>Toronto 2014 (with Mustafa)</text>
+        <text x='84' y='255' class='artist'>by Daniel Caesar, Mustafa</text>
+      <image href='https://i.scdn.co/image/ab67616d0000485131cf49fd3091a58dae856775' x='10' y='290' width='64' height='64'/>
+        <text x='84' y='310' class='track'>Focus</text>
+        <text x='84' y='335' class='artist'>by H.E.R.</text>
+      <image href='https://i.scdn.co/image/ab67616d000048510cbcba901936179fd2c048e0' x='10' y='370' width='64' height='64'/>
+        <text x='84' y='390' class='track'>Lay It Down</text>
+        <text x='84' y='415' class='artist'>by Lloyd</text>
+      </svg>
