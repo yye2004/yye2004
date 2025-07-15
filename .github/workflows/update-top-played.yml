@@ -39,11 +39,11 @@ jobs:
           \`;
           fs.writeFileSync('top-played.svg', svg);
           "
-
       - name: Commit & Push SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add top-played.svg
           git commit -m "Update top-played.svg [skip ci]" || echo "No changes"
-          git push
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push origin HEAD:${{ github.ref_name }}
