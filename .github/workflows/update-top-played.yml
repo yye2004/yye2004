@@ -3,7 +3,7 @@ name: Update Top Played SVG
 on:
   schedule:
     - cron: "0 0 * * *" # every day at 00:00 UTC
-  workflow_dispatch:     # allow manual runs too
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,28 +21,52 @@ jobs:
       - name: Fetch Top Played JSON
         run: curl -s https://yye-spotify.onrender.com/api/top-played > top-played.json
 
-      - name: Generate SVG
+      - name: Generate Pretty SVG with Covers
         run: |
           node -e "
             const fs = require('fs');
             const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
             const items = Array.isArray(data.items) ? data.items : [];
-            const height = 60 + items.length * 30;
-            let svg = \`<svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${height}'>\`;
-            svg += \`<style>text { font-family: sans-serif; font-size: 16px; }</style>\`;
-            svg += \`<text x='10' y='30'>Top Played Tracks:</text>\`;
+            const itemHeight = 80;
+            const padding = 10;
+            const imageSize = 64;
+            const textOffsetX = imageSize + 2 * padding;
+            const height = 50 + items.length * itemHeight;
+            let svg = \`
+              <svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${height}'>
+                <style>
+                  .title { font: bold 20px sans-serif; }
+                  .track { font: 16px sans-serif; }
+                  .artist { font: italic 14px sans-serif; fill: #555; }
+                </style>
+                <text x='\${padding}' y='30' class='title'>🎧 My Top Played Tracks</text>
+            \`;
+
             if (items.length > 0) {
               items.forEach((item, i) => {
+                const y = 50 + i * itemHeight;
+                const img = item.album && item.album.images && item.album.images.length > 0
+                  ? item.album.images[item.album.images.length - 1].url
+                  : '';
                 const track = item.name || 'Unknown Track';
                 const artists = item.artists && Array.isArray(item.artists)
                   ? item.artists.map(a => a.name).join(', ')
                   : 'Unknown Artist';
-                svg += \`<text x='10' y='\${60 + i * 30}'>\${track} by \${artists}</text>\`;
+
+                if (img) {
+                  svg += \`<image href='\${img}' x='\${padding}' y='\${y}' width='\${imageSize}' height='\${imageSize}'/>\`;
+                }
+
+                svg += \`
+                  <text x='\${textOffsetX}' y='\${y + 20}' class='track'>\${track}</text>
+                  <text x='\${textOffsetX}' y='\${y + 45}' class='artist'>by \${artists}</text>
+                \`;
               });
             } else {
-              svg += \`<text x='10' y='60'>No data available.</text>\`;
+              svg += \`<text x='\${padding}' y='60'>No data available.</text>\`;
             }
-            svg += \`</svg>\`;
+
+            svg += '</svg>';
             fs.writeFileSync('top-played.svg', svg);
           "
 
@@ -51,5 +75,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add top-played.svg
-          git commit -m "Update top-played.svg [skip ci]" || echo "Nothing to commit"
+          git commit -m "Update pretty top-played.svg [skip ci]" || echo "Nothing to commit"
           git push
