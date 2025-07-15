@@ -1,9 +1,9 @@
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
+## busy
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
 
-<h1>
+<p>
   반가워 구건일여친바로나야
-</h1>
+</p>
 
 
  
