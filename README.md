@@ -44,6 +44,8 @@
 | ![King Of Hearts](https://i.scdn.co/image/ab67616d000048510cbcba901936179fd2c048e0) | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | Lloyd |
 
 
-
+## ˗ˏˋ ♡ ˎˊ˗ 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑜𝑜𝓅𝒾𝓃𝑔
+|-------|-------|--------|
+| ![boyfriend](	https://i.scdn.co/image/ab67616d000048512ca010dcf3863a07611d8b4f) | [boyfriend (with Social House)](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | Ariana Grande, Social House |
 
 
