@@ -1,7 +1,7 @@
-## 𐙚₊˚⊹♡ 𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦
-bye
+## 𐙚₊˚⊹ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊˚ 🦢
+𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞
 
-## 💻 Stacks:
+## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,14 +16,15 @@ bye
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## busy sleeping
+## 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
 <p>
   반가워 구건일여친바로나야
+  <p>i am a certified sleeper hehe💤</p> 
 </p>
  
-## 🎧 My Top Played Tracks
-| Cover | Track | Artist |
+## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
+| 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
 | ![Freudian](https://i.scdn.co/image/ab67616d0000485105ac3e026324594a31fad7fb) | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | Daniel Caesar |
 | ![Justice](https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431) | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | Justin Bieber |
@@ -33,5 +34,5 @@ bye
 
 
 
-<p>i am a certified sleeper hehe💤</p> 
+
 
