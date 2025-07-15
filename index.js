@@ -20,6 +20,11 @@ async function getAccessToken() {
   return response.data.access_token;
 }
 
+app.get('/', (req, res) => {
+  res.send('✅ Server is up and running!');
+});
+
+
 app.get('/api/top-played', async (req, res) => {
   try {
     const accessToken = await getAccessToken();
