@@ -77,3 +77,35 @@ jobs:
           git add top-played.svg
           git commit -m "Update pretty top-played.svg [skip ci]" || echo "Nothing to commit"
           git push
+      - name: Update README with Markdown table
+        run: |
+          node -e "
+            const fs = require('fs');
+            const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
+            const items = Array.isArray(data.items) ? data.items : [];
+            let table = '## 🎧 My Top Played Tracks\\n\\n';
+            table += '| Cover | Track | Artist |\\n';
+            table += '|-------|-------|--------|\\n';
+            items.forEach(item => {
+              const img = item.album?.images?.[item.album.images.length - 1]?.url || '';
+              const track = item.name || 'Unknown';
+              const trackUrl = item.external_urls?.spotify || '#';
+              const artists = item.artists?.map(a => a.name).join(', ') || 'Unknown';
+              table += \`| ![](\${img}) | [\${track}](\${trackUrl}) | \${artists} |\\n\`;
+            });
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const newReadme = readme.replace(
+              /<!-- START:TOP-TRACKS -->[\\s\\S]*<!-- END:TOP-TRACKS -->/,
+              \`<!-- START:TOP-TRACKS -->\\n\${table}\\n<!-- END:TOP-TRACKS -->\`
+            );
+            fs.writeFileSync('README.md', newReadme);
+          "
+
+      - name: Commit & Push README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README top tracks table [skip ci]" || echo "Nothing to commit"
+          git push
