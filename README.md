@@ -45,7 +45,7 @@
 
 
 ## ˗ˏˋ ♡ ˎˊ˗ 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑜𝑜𝓅𝒾𝓃𝑔
-| &#8203; | &#8203; | &#8203; |
+| 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
 | ![boyfriend](https://i.scdn.co/image/ab67616d000048512ca010dcf3863a07611d8b4f) | [boyfriend (with Social House)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | Ariana Grande, Social House |
 
