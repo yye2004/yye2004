@@ -26,7 +26,7 @@ jobs:
           node -e "
           const fs = require('fs');
           const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
-          const items = Array.isArray(data) ? data : data.items || [];
+          const items = Array.isArray(data) ? data.items || [] : [];
           const svg = \`
           <svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${60 + items.length * 30}'>
             <style>
@@ -46,6 +46,7 @@ jobs:
           \`;
           fs.writeFileSync('top-played.svg', svg);
           "
+
 
       - name: Commit & Push SVG
         run: |
