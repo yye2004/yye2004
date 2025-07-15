@@ -26,24 +26,6 @@ jobs:
           node -e "
           const fs = require('fs');
           const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
-          const svg = \`
-          <svg xmlns='http://www.w3.org/2000/svg' width='600' height='200'>
-            <style>
-              text { font-family: sans-serif; font-size: 16px; }
-            </style>
-            <text x='10' y='30'>Top Played Tracks:</text>
-            \${data.items.map((item, i) => \`
-              <text x='10' y='\${60 + i * 30}'>\${item.track} by \${item.artist} - \${item.plays} plays</text>
-            \`).join('')}
-          </svg>
-          \`;
-          fs.writeFileSync('top-played.svg', svg);
-          "
-      - name: Generate SVG
-        run: |
-          node -e "
-          const fs = require('fs');
-          const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
           const items = Array.isArray(data) ? data : data.items || [];
           const svg = \`
           <svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${60 + items.length * 30}'>
@@ -64,3 +46,12 @@ jobs:
           \`;
           fs.writeFileSync('top-played.svg', svg);
           "
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add top-played.svg
+          git commit -m "Update top-played.svg [skip ci]" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push origin HEAD:${{ github.ref_name }}
