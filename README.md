@@ -1,6 +1,6 @@
 ## 𐙚₊˚⊹ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊˚ 🦢
-𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞
-[![Yye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
+<p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
