@@ -1,8 +1,7 @@
 ## 𐙚₊˚⊹ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊˚ 🦢
 𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞
-<p>
-  
-</p>
+[![Yye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -18,9 +17,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<p>
-  
-</p>
 
 
 ## 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
@@ -28,9 +24,6 @@
 <p>
   반가워 구건일여친바로나야
   <p>i am a certified sleeper hehe💤</p> 
-</p>
-<p>
-  
 </p>
 
  
