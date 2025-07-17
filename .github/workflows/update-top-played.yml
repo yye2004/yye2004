@@ -1,111 +1,47 @@
-name: Update Top Played SVG
+name: Update top tracks
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at 00:00 UTC
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Generate top-tracks.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: top-tracks.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: top
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_limit: 5
+          plugin_music_playlist: false
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '18'
 
-      - name: Fetch Top Played JSON
-        run: curl -s https://yye-spotify.onrender.com/api/top-played > top-played.json
+      - name: Install dependencies
+        run: npm install
 
-      - name: Generate Pretty SVG with Covers
-        run: |
-          node -e "
-            const fs = require('fs');
-            const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
-            const items = Array.isArray(data.items) ? data.items : [];
-            const itemHeight = 80;
-            const padding = 10;
-            const imageSize = 64;
-            const textOffsetX = imageSize + 2 * padding;
-            const height = 50 + items.length * itemHeight;
-            let svg = \`
-              <svg xmlns='http://www.w3.org/2000/svg' width='600' height='\${height}'>
-                <style>
-                  .title { font: bold 20px sans-serif; }
-                  .track { font: 16px sans-serif; }
-                  .artist { font: italic 14px sans-serif; fill: #555; }
-                </style>
-                <text x='\${padding}' y='30' class='title'>🎧 My Top Played Tracks</text>
-            \`;
+      - name: Run markdown updater script
+        run: node update-top-tracks.js
 
-            if (items.length > 0) {
-              items.forEach((item, i) => {
-                const y = 50 + i * itemHeight;
-                const img = item.album && item.album.images && item.album.images.length > 0
-                  ? item.album.images[item.album.images.length - 1].url
-                  : '';
-                const track = item.name || 'Unknown Track';
-                const artists = item.artists && Array.isArray(item.artists)
-                  ? item.artists.map(a => a.name).join(', ')
-                  : 'Unknown Artist';
-
-                if (img) {
-                  svg += \`<image href='\${img}' x='\${padding}' y='\${y}' width='\${imageSize}' height='\${imageSize}'/>\`;
-                }
-
-                svg += \`
-                  <text x='\${textOffsetX}' y='\${y + 20}' class='track'>\${track}</text>
-                  <text x='\${textOffsetX}' y='\${y + 45}' class='artist'>by \${artists}</text>
-                \`;
-              });
-            } else {
-              svg += \`<text x='\${padding}' y='60'>No data available.</text>\`;
-            }
-
-            svg += '</svg>';
-            fs.writeFileSync('top-played.svg', svg);
-          "
-
-      - name: Commit & Push SVG
+      - name: Commit README.md changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add top-played.svg
-          git commit -m "Update pretty top-played.svg [skip ci]" || echo "Nothing to commit"
-          git push
-      - name: Update README with Markdown table
-        run: |
-          node -e "
-            const fs = require('fs');
-            const data = JSON.parse(fs.readFileSync('top-played.json', 'utf8'));
-            const items = Array.isArray(data.items) ? data.items : [];
-            let table = '## 🎧 My Top Played Tracks\\n\\n';
-            table += '| Cover | Track | Artist |\\n';
-            table += '|-------|-------|--------|\\n';
-            items.forEach(item => {
-              const img = item.album?.images?.[item.album.images.length - 1]?.url || '';
-              const track = item.name || 'Unknown';
-              const trackUrl = item.external_urls?.spotify || '#';
-              const artists = item.artists?.map(a => a.name).join(', ') || 'Unknown';
-              table += \`| ![](\${img}) | [\${track}](\${trackUrl}) | \${artists} |\\n\`;
-            });
-
-            const readme = fs.readFileSync('README.md', 'utf8');
-            const newReadme = readme.replace(
-              /<!-- START:TOP-TRACKS -->[\\s\\S]*<!-- END:TOP-TRACKS -->/,
-              \`<!-- START:TOP-TRACKS -->\\n\${table}\\n<!-- END:TOP-TRACKS -->\`
-            );
-            fs.writeFileSync('README.md', newReadme);
-          "
-
-      - name: Commit & Push README
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README top tracks table [skip ci]" || echo "Nothing to commit"
+          git commit -m "update markdown top tracks" || echo "no changes to commit"
           git push
