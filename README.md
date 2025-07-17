@@ -33,7 +33,6 @@
 <!-- START:TOP-TRACKS -->
 | Cover | Track | Artist |
 |-------|-------|--------|
-| This will be replaced automatically |
 <!-- END:TOP-TRACKS -->
 
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
