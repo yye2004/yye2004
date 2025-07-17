@@ -29,6 +29,11 @@
 
  
 ## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
+
+<!-- START:TOP-TRACKS -->
+<!-- The workflow will insert the updated Markdown table here automatically. -->
+<!-- END:TOP-TRACKS -->
+
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
 | ![Freudian](https://i.scdn.co/image/ab67616d0000485105ac3e026324594a31fad7fb) | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | Daniel Caesar |
