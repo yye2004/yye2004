@@ -29,7 +29,7 @@
 
  
 ## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
-
+![Top Played](./top-played.svg)
 <!-- START:TOP-TRACKS -->
 <!-- The workflow will insert the updated Markdown table here automatically. -->
 <!-- END:TOP-TRACKS -->
