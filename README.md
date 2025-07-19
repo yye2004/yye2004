@@ -19,8 +19,8 @@
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)]
- [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=yye2004&)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
+ ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=yye2004&)
 
  
 ## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
