@@ -1,5 +1,7 @@
 # 🦢 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
-<p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
+Hi, I'm yye2004
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
