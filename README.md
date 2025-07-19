@@ -34,6 +34,7 @@
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
 [![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
+[![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
 
 
 
