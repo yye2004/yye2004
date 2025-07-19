@@ -1,7 +1,7 @@
 # 🦢 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊ 𐙚˚⊹
 <p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
 
-# 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
+# 💻  ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +24,10 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</br>
 
-
+## 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![FoodRise-Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fyye2004%2FFoodRise-Co)
+
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
