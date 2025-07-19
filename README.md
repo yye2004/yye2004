@@ -1,8 +1,8 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
-🦢 Hi, I'm yye2004
-🗓️ Seeking Internship from Jan - Apr 26'
-👩🏻‍💻 Software Engineering Undergraduate
-🎓 Sunway University
+🦢 Hi, I'm yye2004 </br>
+🗓️ Seeking Internship from Jan - Apr 26'</br>
+👩🏻‍💻 Software Engineering Undergraduate</br>
+🎓 Sunway University</br>
 🖇️ Let's Connect: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ying-er-yeap) 
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
