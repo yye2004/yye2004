@@ -24,12 +24,12 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
+
 ![](https://github-profile-trophy.vercel.app/?username=yye2004&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 
