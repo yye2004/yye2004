@@ -1,7 +1,7 @@
-# 🦢 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊ 𐙚˚⊹
+# 🦢 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
 
-# 💻  ᯓ★:
+# 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,23 +22,23 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</br>
 
-## 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 
+## 📂 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 ✧₊⁺ :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</br>
 [![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
 [![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
 
 
 
-## 📊 GitHub Stats:
+## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  ๋࣭⭑⚝ :
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
 
 
 
  
-# 🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ☾⋆⁺₊✧˚
+# 🎧 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚃𝚘𝚙 𝙿𝚕𝚊𝚢𝚎𝚍 ☾⋆⁺₊✧˚
 
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
@@ -49,12 +49,12 @@
 | ![King Of Hearts](https://i.scdn.co/image/ab67616d000048510cbcba901936179fd2c048e0) | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | Lloyd |
 
 
-## 🩶 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑜𝑜𝓅𝒾𝓃𝑔˗ˏˋ ♡ ˎˊ˗
+## 🩶 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚘𝚘𝚙𝚒𝚗𝚐 ˗ˏˋ ♡ ˎˊ˗
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
 | ![boyfriend](https://i.scdn.co/image/ab67616d000048512ca010dcf3863a07611d8b4f) | [boyfriend (with Social House)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | Ariana Grande, Social House |
 
-## 🛏️ 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
+## 🛏️ 𝚋𝚞𝚜𝚢 𝚜𝚕𝚎𝚎𝚙𝚒𝚗𝚐... ᶻ 𝗓 𐰁
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
 <p>
   반가워 구건일여친바로나야
