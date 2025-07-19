@@ -1,10 +1,12 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
-🦢 Hi, I'm yye2004 </br>
-🗓️ Seeking Internship from Jan - Apr 26'</br>
-👩🏻‍💻 Software Engineering Undergraduate</br>
-🎓 Sunway University</br>
-🖇️ Let's Connect: </br>
+<p>🦢 Hi, I'm yye2004 </p>
+<p>🗓️ Seeking Internship from Jan - Apr 26'</p>
+<p>👩🏻‍💻 Software Engineering Undergraduate</p>
+<p>🎓 Sunway University</p>
+<p>🖇️ Let's Connect: </br>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ying-er-yeap) 
+</p>
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
