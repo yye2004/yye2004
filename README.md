@@ -26,7 +26,7 @@
 
 ## 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![FoodRise-Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fyye2004%2FFoodRise-Co)
+![FoodRise-Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge&link=https://github.com/yye2004/FoodRise-Co)
 
 
 ## 📊 GitHub Stats:
