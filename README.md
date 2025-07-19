@@ -2,7 +2,7 @@
 <p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yye2004&show_icons=true&locale=en" alt="yye2004" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yye2004&" alt="yye2004" /></p>
+
 
 ## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -20,7 +20,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+<p>&nbsp;<img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=yye2004&show_icons=true&locale=en" alt="yye2004" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yye2004&" alt="yye2004" /></p>
 
 
  
