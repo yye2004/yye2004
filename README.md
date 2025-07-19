@@ -21,7 +21,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yye2004&show_icons=true&locale=en" alt="yye2004" />
- <span style="display:inline-block; width:20px;"></span>
+ <span style="display:inline-block; width:50px;"></span>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yye2004&" alt="yye2004" /></p>
 
 
