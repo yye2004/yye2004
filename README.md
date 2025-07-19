@@ -5,7 +5,7 @@
 <p>🎓 Sunway University</p>
 <p>🖇️ Let's Connect: </br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ying-er-yeap) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
 </p>
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
