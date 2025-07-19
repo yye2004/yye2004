@@ -1,7 +1,7 @@
-## 🦢 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊ 𐙚˚⊹
+# 🦢 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 ♡₊ 𐙚˚⊹
 <p>𝘩𝘪 𝘪𝘮 𝘺𝘺𝘦. 𝐛𝐲𝐞</p>
 
-## 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
+# 💻 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +35,7 @@
 
 
  
-## 🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ☾⋆⁺₊✧˚
+# 🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ☾⋆⁺₊✧˚
 
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
