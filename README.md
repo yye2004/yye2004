@@ -18,10 +18,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004)](https://github.com/anuraghazra/github-readme-stats)
  [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=yye2004&)
-</p>
+
  
 ## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
 
