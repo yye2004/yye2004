@@ -26,15 +26,15 @@
 
 ## 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<object data="https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fyye2004%2FFoodRise-Co"></object>
+[![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
+[![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
 
 
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
-[![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
-[![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
+![](https://github-profile-trophy.vercel.app/?username=yye2004&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
