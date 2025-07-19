@@ -3,7 +3,8 @@
 🗓️ Seeking Internship from Jan - Apr 26'</br>
 👩🏻‍💻 Software Engineering Undergraduate</br>
 🎓 Sunway University</br>
-🖇️ Let's Connect: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ying-er-yeap) 
+🖇️ Let's Connect: </br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ying-er-yeap) 
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
