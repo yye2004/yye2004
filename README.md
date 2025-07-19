@@ -21,19 +21,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
-![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
-<p>
-  반가워 구건일여친바로나야
-  <p>i am a certified sleeper hehe💤</p> 
-</p>
+
 
  
 ## ☾⋆⁺₊🎧 𝘛𝘰𝘱 𝘗𝘭𝘢𝘺𝘦𝘥 ✧ ⋆.˚⋆
-<!-- START:TOP-TRACKS -->
-| Cover | Track | Artist |
-|-------|-------|--------|
-<!-- END:TOP-TRACKS -->
 
 | 𝘊𝘰𝘷𝘦𝘳 | 𝘛𝘳𝘢𝘤𝘬 | 𝘈𝘳𝘵𝘪𝘴𝘵 |
 |-------|-------|--------|
@@ -49,4 +40,9 @@
 |-------|-------|--------|
 | ![boyfriend](https://i.scdn.co/image/ab67616d000048512ca010dcf3863a07611d8b4f) | [boyfriend (with Social House)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | Ariana Grande, Social House |
 
-
+## 𝓐𝓵𝔀𝓪𝔂𝓼 𝓑𝓾𝓼𝔂 𝓢𝓵𝓮𝓮𝓹𝓲𝓷𝓰 ᶻ 𝗓 𐰁
+![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
+<p>
+  반가워 구건일여친바로나야
+  <p>i am a certified sleeper hehe💤</p> 
+</p>
