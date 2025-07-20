@@ -38,6 +38,7 @@
 [![Foodie](https://img.shields.io/badge/Foodie-orange?style=for-the-badge)](https://github.com/yye2004/Foodie)
 [![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
 [![SiPP](https://img.shields.io/badge/SiPP-blue?style=for-the-badge)](https://github.com/yye2004/sipp) 
+[![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad-violet?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad) 
 
 
 
