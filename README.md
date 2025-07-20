@@ -33,7 +33,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</br>
 
 ## 📂 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 ✧₊⁺ :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</br>
+
 [![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
 [![Foodie](https://img.shields.io/badge/Foodie-orange?style=for-the-badge)](https://github.com/yye2004/Foodie)
 [![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co) 
@@ -43,7 +43,7 @@
 
 
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  ๋࣭⭑⚝ :
-
+![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
 
 
 
