@@ -34,12 +34,12 @@
 
 ## 📂 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 ✧₊⁺ :
 
-[![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-yellow?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
-[![Foodie](https://img.shields.io/badge/Foodie-orange?style=for-the-badge)](https://github.com/yye2004/Foodie)
+[![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
+[![Foodie](https://img.shields.io/badge/Foodie-black?style=for-the-badge)](https://github.com/yye2004/Foodie)
 [![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9-black?style=for-the-badge)](https://github.com/yye2004/Pokemon-Ga-Ole) 
-[![SiPP](https://img.shields.io/badge/SiPP-blue?style=for-the-badge)](https://github.com/yye2004/sipp) 
-[![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad-violet?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
-[![SVPS](https://img.shields.io/badge/SVPS-green?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
+[![SiPP](https://img.shields.io/badge/SiPP-black?style=for-the-badge)](https://github.com/yye2004/sipp) 
+[![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad-black?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
+[![SVPS](https://img.shields.io/badge/SVPS-black?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
 ![yye2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=graywhite&show_icons=true&hide_border=false&layout=compact)</br>
 
 
