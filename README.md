@@ -37,7 +37,7 @@
 [![FoodRise_Co](https://img.shields.io/badge/FoodRise_Co.-black?style=for-the-badge)](https://github.com/yye2004/FoodRise-Co)
 [![Foodie](https://img.shields.io/badge/Foodie_Blog-black?style=for-the-badge)](https://github.com/yye2004/Foodie)
 [![GaOle](https://img.shields.io/badge/Pok%C3%A9mon_Ga_Ol%C3%A9_Console_Game-black?style=for-the-badge)](https://github.com/yye2004/Pokemon-Ga-Ole) 
-[![SiPP](https://img.shields.io/badge/Student%20Assessment%20Managemen%20System-black?style=for-the-badge)](https://github.com/yye2004/sipp) 
+[![SiPP](https://img.shields.io/badge/Student%20Assessment%20Management%20System-black?style=for-the-badge)](https://github.com/yye2004/sipp) 
 [![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad%20Book%20Management%20System-black?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
 [![SVPS](https://img.shields.io/badge/Smart%20Vehicle%20Performance%20System-black?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
 ![yye2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=graywhite&show_icons=true&hide_border=false&layout=compact)</br>
