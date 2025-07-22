@@ -40,9 +40,9 @@
 [![SiPP](https://img.shields.io/badge/SiPP-blue?style=for-the-badge)](https://github.com/yye2004/sipp) 
 [![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad-violet?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
 [![SVPS](https://img.shields.io/badge/SVPS-green?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</br>
+![yye2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=graywhite&show_icons=true&hide_border=false&layout=compact)</br>
 
-
+![yye2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  ๋࣭⭑⚝ :
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
 
