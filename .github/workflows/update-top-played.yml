@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate top-tracks.svg
+      - name: Generate top-played.svg
         uses: lowlighter/metrics@latest
         with:
-          filename: top-tracks.svg
+          filename: ./top-played.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_music: yes
