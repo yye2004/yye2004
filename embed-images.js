@@ -1,41 +1,43 @@
 const fs = require('fs');
-const https = require('https');
+const axios = require('axios');
 
-function downloadAndEncode(url) {
-  return new Promise((resolve, reject) => {
-    https.get(url, res => {
-      const chunks = [];
-      res.on('data', chunk => chunks.push(chunk));
-      res.on('end', () => {
-        const buffer = Buffer.concat(chunks);
-        const mime = res.headers['content-type'] || 'image/jpeg';
-        const base64 = buffer.toString('base64');
-        resolve(`data:${mime};base64,${base64}`);
-      });
-    }).on('error', reject);
-  });
+async function toBase64(url) {
+  try {
+    const response = await axios.get(url, {
+      responseType: 'arraybuffer',
+    });
+    const mimeType = response.headers['content-type'] || 'image/jpeg';
+    const base64 = Buffer.from(response.data, 'binary').toString('base64');
+    return `data:${mimeType};base64,${base64}`;
+  } catch (error) {
+    console.error(`❌ Failed to download image from ${url}:`, error.message);
+    return null;
+  }
 }
 
 async function embedImagesInSVG(filePath) {
   let svg = fs.readFileSync(filePath, 'utf8');
-  const regex = /<image[^>]*href=['"]([^'"]+)['"][^>]*>/g;
 
+  const regex = /<image([^>]+)href=['"]([^'"]+)['"]([^>]*)>/g;
   const matches = [...svg.matchAll(regex)];
 
   for (const match of matches) {
-    const url = match[1];
-    if (!url.startsWith('https://')) continue; // skip already embedded or local
+    const fullTag = match[0];
+    const prefix = match[1];
+    const url = match[2];
+    const suffix = match[3];
 
-    try {
-      const base64 = await downloadAndEncode(url);
-      svg = svg.replace(url, base64);
-    } catch (err) {
-      console.error(`⚠️ Failed to embed image from ${url}: ${err}`);
+    if (!url.startsWith('https://')) continue;
+
+    const base64 = await toBase64(url);
+    if (base64) {
+      const newTag = `<image${prefix}href="${base64}"${suffix}>`;
+      svg = svg.replace(fullTag, newTag);
     }
   }
 
-  fs.writeFileSync(filePath, svg);
-  console.log(`✅ Embedded images into ${filePath}`);
+  fs.writeFileSync(filePath, svg, 'utf8');
+  console.log(`✅ All external images in ${filePath} have been embedded as Base64.`);
 }
 
 embedImagesInSVG('top-tracks.svg');
