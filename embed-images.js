@@ -40,4 +40,4 @@ async function embedImagesInSVG(filePath) {
   console.log(`✅ All external images in ${filePath} have been embedded as Base64.`);
 }
 
-embedImagesInSVG('top-tracks.svg');
+embedImagesInSVG('top-played.svg');
