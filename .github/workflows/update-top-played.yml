@@ -26,6 +26,10 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_limit: 5
           plugin_music_playlist: false
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
