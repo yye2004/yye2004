@@ -5,7 +5,7 @@
 <p>🎓 Sunway University</p>
 <p>🖇️ Let's Connect: </br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
 </p>
 
 # 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
@@ -45,7 +45,5 @@
 
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  ๋࣭⭑⚝ :
 ![](https://nirzak-streak-stats.vercel.app/?user=yye2004&theme=default_repocard&hide_border=false)
-
-
 
 ![](https://github-profile-trophy.vercel.app/?username=yye2004&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
