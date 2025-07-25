@@ -1,5 +1,5 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
-<p>🦢 hi 😼 I'm yye2004 </p>
+<p>🦢 Hello! I'm Ying Er </p>
 <p>🗓️ Seeking Internship from Jan - Apr 26'</p>
 <p>👩🏻‍💻 Software Engineering Undergraduate</p>
 <p>🎓 Sunway University</p>
