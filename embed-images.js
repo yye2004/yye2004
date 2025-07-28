@@ -37,7 +37,7 @@ async function embedImagesInSVG(filePath) {
   }
 
   fs.writeFileSync(filePath, svg, 'utf8');
-  console.log(`✅ All external images in ${filePath} have been embedded as Base64.`);
+  console.log('All external images in ${filePath} have been embedded as Base64.');
 }
 
 embedImagesInSVG('top-played.svg');
