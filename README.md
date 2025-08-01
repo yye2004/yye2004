@@ -1,6 +1,6 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 Hello! I'm Ying Er </p>
-<p>🗓️ Seeking Internship from Jan - Apr 26'</p>
+<p>🗓️ Seeking Software Internship from Jan - Apr 26'</p>
 <p>👩🏻‍💻 Software Engineering Undergraduate</p>
 <p>🎓 Sunway University, Selangor</p>
 <p>🖇️ Let's Connect！ </br>
