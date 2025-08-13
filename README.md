@@ -1,5 +1,5 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
-<p>🦢 Hello! I'm Ying Er！ </p>
+<p>🦢 hola, yye です </p>
 <p>🗓️ Seeking Software Internship from Jan - Apr 26'</p>
 <p>👩🏻‍💻 Software Engineering Undergraduate</p>
 <p>🎓 Sunway University, Selangor. </p>
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
 </p>
 
-# 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
+## 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
