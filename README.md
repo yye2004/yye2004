@@ -55,6 +55,6 @@
 ## 🛏️ 𝚋𝚞𝚜𝚢 𝚜𝚕𝚎𝚎𝚙𝚒𝚗𝚐... ᶻ 𝗓 𐰁
 ![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
 <p>
-  반가워 구건일여친바로나야
+  구건일여친
   <p>i am a certified sleeper hehe💤</p> 
 </p>
