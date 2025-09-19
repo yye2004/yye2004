@@ -1,7 +1,7 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 hi i'm yye </p>
 <p>🗓️ Seeking Software Internship from Jan - Apr 26'</p>
-<p>👩🏻‍💻 Software Engineering Undergraduate</p>
+<p>👩🏻‍💻 Final Year Software Engineering Undergraduate</p>
 <p>🎓 Sunway University, Selangor </p>
 <p>🖇️ Let's Connect </br>
 
@@ -53,12 +53,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=yye2004&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-
-
-## 🛏️ 𝚋𝚞𝚜𝚢 𝚜𝚕𝚎𝚎𝚙𝚒𝚗𝚐... ᶻ 𝗓 𐰁
-![GunilWinkGIF](https://github.com/user-attachments/assets/49a2287a-10fd-4ac3-afb7-05179c25f556)
-<p>
-  구건일여친
-  <p>i am a certified sleeper hehe💤</p> 
-</p>
