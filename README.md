@@ -45,7 +45,6 @@
 [![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad%20Book%20Management%20System-black?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
 [![morrow](https://img.shields.io/badge/morrow-black?style=for-the-badge)](https://github.com/yye2004/morrow)
 [![SVPS](https://img.shields.io/badge/Smart%20Vehicle%20Performance%20System-black?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
-[![yye2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yye2004&theme=graywhite&show_icons=true&hide_border=false&layout=compact)</br>
 
 
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔  ๋࣭⭑⚝ :
