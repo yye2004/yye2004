@@ -1,6 +1,5 @@
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 hi i'm yye </p>
-<p>🗓️ Seeking Software Internship from Jan - Apr 26'</p>
 <p>👩🏻‍💻 Final Year Software Engineering Undergraduate</p>
 <p>🎓 Sunway University, Selangor </p>
 <p>🖇️ Let's Connect </br>
