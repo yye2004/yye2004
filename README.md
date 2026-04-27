@@ -3,8 +3,9 @@
 <p>👩🏻‍💻 Final Year Software Engineering Undergraduate</p>
 <p>🎓 Sunway University, Selangor </p>
 <p>🖇️ Let's Connect </br>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
+<p>🌐 My Portfolio </br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://github.com/yye2004)
 </p>
 
 ## 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
