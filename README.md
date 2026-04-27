@@ -47,6 +47,8 @@
 [![Kebunity](https://img.shields.io/badge/Kebunity-black?style=for-the-badge)](https://github.com/yye2004/Kebunity)
 [![Sleigh Squad](https://img.shields.io/badge/Sleigh%20Squad%20Book%20Management%20System-black?style=for-the-badge)](https://github.com/yye2004/Sleigh-Squad)
 [![morrow](https://img.shields.io/badge/morrow-black?style=for-the-badge)](https://github.com/yye2004/morrow)
+[![splitit](https://img.shields.io/badge/splitit-black?style=for-the-badge)](https://github.com/yye2004/splitit)
+[![meow](https://img.shields.io/badge/Meow%20CV-black?style=for-the-badge)](https://github.com/yye2004/meow)
 [![SVPS](https://img.shields.io/badge/Smart%20Vehicle%20Performance%20System-black?style=for-the-badge)](https://github.com/yye2004/Smart-Vehicle-Performance-System)</br>
 
 
