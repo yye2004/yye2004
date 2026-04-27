@@ -8,7 +8,7 @@
 
 <p>🌐 My Portfolio </br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://github.com/yye2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-92C0DE?style=for-the-badge)](https://github.com/yye2004)
 </p>
 
 ## 💻 𝑺𝒕𝒂𝒄𝒌𝒔 ᯓ★:
