@@ -5,7 +5,7 @@
 <p>🖇️ Let's Connect </br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ying-er-yeap/) 
-
+[![Behance](https://img.shields.io/badge/behance-104070?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/yingeryeap) 
 <p>🌐 My Portfolio </br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-92C0DE?style=for-the-badge)](https://github.com/yye2004)
