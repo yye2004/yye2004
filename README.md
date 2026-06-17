@@ -1,3 +1,5 @@
+[shortcut](https://github.com/yye2004/seated)
+--- 
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 hi i'm yye </p>
 <p>👩🏻‍💻 Final Year Software Engineering Undergraduate</p>
