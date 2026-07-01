@@ -1,5 +1,13 @@
 [shortcut](https://github.com/yye2004/seated)
 --- 
+<div align="center">
+    <img width=300 src="./assets/scubaaa.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=50&pause=1000&color=F7F7F7&center=true&width=500&height=80&lines=bonjour%F0%9F%98%BC+je+suis+yye" alt="Typing SVG" /></a>
+</div>
+
+
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 hi i'm yye </p>
 <p>👩🏻‍💻 Final Year Software Engineering Undergraduate</p>
