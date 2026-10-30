@@ -1,10 +1,10 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=50&pause=1000&color=F7F7F7&center=true&background=000000&width=500&height=80&lines=hola%F0%9F%98%BC+i'+m+yye" alt="Typing SVG" /></a>
     <br>
-        <table>
+        <table width="100%">
           <tr>
-            <td valign="top"><img src="./yye-ascii.svg" width="370" /></td>
-            <td valign="top"><img src="./assets/oshawott.gif" width="370" /></td>
+            <td width="51%" valign="top"><img src="./yye-ascii.svg" width="100%" alt="Animated ASCII portrait" /></td>
+            <td width="49%" valign="top"><img src="./assets/oshawott.gif" width="100%" alt="Animated Oshawott" /></td>
           </tr>
         </table>
 

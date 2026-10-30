@@ -40,9 +40,9 @@ GAMMA = 1.18          # >1 brightens mids -> face lands in sparser chars
 SHARPEN = False
 WHITE_FLOOR = 0.80    # luminance above this is forced to blank (space)
 
-PAD = 20
+PAD = 5
 TITLEBAR_H = 30
-STATUS_H = 30
+STATUS_H = 25
 ART_W = COLS * CELL_W
 ART_H = ROWS * CELL_H
 CANVAS_W = ART_W + PAD * 2
