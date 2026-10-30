@@ -1,3 +1,15 @@
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=50&pause=1000&color=F7F7F7&center=true&background=000000&width=500&height=80&lines=hola%F0%9F%98%BC+i'+m+yye" alt="Typing SVG" /></a>
+    <br>
+        <table>
+          <tr>
+            <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+            <td valign="top"><img src="./assets/scubaaa.gif" width="370" /></td>
+          </tr>
+        </table>
+
+</div>
+
 # 💭 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ♡₊ 𐙚˚⊹
 <p>🦢 hi i'm yye </p>
 <p>👩🏻‍💻 Software Engineering Graduate</p>
