@@ -48,12 +48,12 @@ ART_H = ROWS * CELL_H
 CANVAS_W = ART_W + PAD * 2
 CANVAS_H = TITLEBAR_H + ART_H + STATUS_H + PAD
 
-BG = "#0d1117"
-BG2 = "#111722"
-FRAME = "#30363d"
-TITLE_TEXT = "#7d8590"
-INK = "#c9d1d9"      # the single ascii color (matches Andrew6rant)
-CURSOR = "#c9d1d9"
+BG = "#f2eee8"
+BG2 = "#eee8dd"
+FRAME = "#cfc9c2"
+TITLE_TEXT = "#827a6f"
+INK = "#362e26"      # the single ascii color (matches Andrew6rant)
+CURSOR = "#362e26"
 
 # ---- reveal timing (one-shot; a cursor rasters top -> bottom) -------------
 ROW_DUR = 5.8 / ROWS  # whole portrait prints in ~6s at any resolution
