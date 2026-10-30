@@ -19,7 +19,7 @@ SMOOTHING = 0          # 0 = none, 1 = very mild
 CONTRAST = 1.0         # 1.0 = preserve original contrast
 BRIGHTNESS = 0         # 0 = preserve original brightness
 LINE_WEIGHT = 0.5      # 0 = no artificial line enhancement
-PADDING = 30
+PADDING = 5
 
 # 1. Load the original image
 image = Image.open(INP).convert("RGBA")
